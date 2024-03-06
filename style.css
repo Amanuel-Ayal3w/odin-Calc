@@ -9,6 +9,7 @@ body {
     margin: 0;
 }
 p{
+    font-family: 'Retro New Version', sans-serif;
     color:rgb(0, 0, 0);
     margin-top: 90px;
     font-size:50px;
@@ -29,12 +30,13 @@ p{
 }
 
 .display {
+    color: white;
     grid-column: span 4;
     padding: 8px;
     margin-bottom: 8px;
     font-size: 1.5em;
     text-align: right;
-    background-color: #fff;
+    background-color: #121212 ;
     border: 1px solid #ccc;
     border-radius: 10px;
 
